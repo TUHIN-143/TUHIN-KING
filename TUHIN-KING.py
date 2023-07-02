@@ -90,10 +90,10 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/TUHIN999')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100090657452051')
 logo = ("""
     
- \033[1;93m╔═════════════════[\033[1;32m 𝘼𝘿𝙈𝙄𝙉 𝙄𝙉-𝙁𝙍𝙊 \033[1;32m]══════════════╗
+ \033[1;93m╔═════════════════[\033[1;32m 𝘼𝘿𝙈𝙄𝙉 𝙄𝙉-𝙁𝙊 \033[1;32m]══════════════╗
  \033[1;93m║     \033[1;96m[✓] CREATED BY\33[0;m   : \033[1;96m TUHIN-143     \033[1;32m║
  \033[1;93m║     \033[1;32m[✓] FACEBOK      : \033[1;34m MOHAMMED TUHIN      \033[1;32m║
  \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35mTUHIN-143        \033[1;32m ║
